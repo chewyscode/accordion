@@ -1,4 +1,4 @@
- //traversing the dom
+
  const btns = document.querySelectorAll(".question-btn");
  const questions = document.querySelectorAll(".question");
 
